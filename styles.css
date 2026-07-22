@@ -2,3 +2,16 @@
 .review-cards footer{display:inline-block;background:transparent;padding:0;color:var(--muted);font-size:12px;font-weight:800;line-height:1.4}
 .brand img{width:76px;height:76px}.footer-brand img{width:88px;height:88px}@media(max-width:650px){.brand img{width:64px;height:64px}.footer-brand img{width:82px;height:82px}}
 .nav>.brand>img{width:76px;height:76px}.footer-grid .footer-brand>img{width:88px;height:88px}@media(max-width:650px){.nav>.brand>img{width:64px;height:64px}.footer-grid .footer-brand>img{width:82px;height:82px}}
+:root:root{--ink:#17324d;--ink-2:#2d4b65;--cream:#f3f1eb;--paper:#f8f6f1;--yellow:#70877f;--yellow-2:#5f766e;--orange:#c8613f;--line:#d9d7d0;--muted:#5e6b72;--shadow:0 20px 55px rgba(23,50,77,.12)}
+html body{font-family:'Inter',Arial,Helvetica,sans-serif}
+html body .hero h1,html body .section h2,html body .quote-section h2,html body .section-heading h2,html body .process h2,html body .reviews h2,html body .faq h2,html body .service-card h3,html body .process-steps h3,html body .work figcaption,html body .review-cards blockquote p{font-family:'Manrope','Avenir Next',Arial,sans-serif;letter-spacing:-.035em}
+html body .button{background:var(--orange);color:#fff;box-shadow:0 8px 0 rgba(23,50,77,.13)}
+html body .button:hover{background:#ad4f32}
+html body .confidence-strip{background:var(--ink);color:#fff}
+html body .confidence-strip span:before{color:#9db5ad}
+html body .service-card.featured{background:var(--ink);border-color:var(--ink)}
+html body .work{background:var(--ink)}
+html body .quote-section{background:var(--orange)}
+html body .quote-section .button{background:var(--ink)}
+html body .quote-section .button:hover{background:#0d253b}
+html body footer{background:#0d2638}
