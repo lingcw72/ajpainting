@@ -54,6 +54,25 @@ The preview is currently intentionally blocked from search-engine indexing. It s
 - On-site viewing hours: Monday–Friday, 11am–4pm
 - Sunday and public holidays: Closed
 - A&J is not GST registered.
+- Customer languages: English and Mandarin
+- Service area: All of Singapore
+- Residential painting is completed by A&J’s regular team and is not subcontracted.
+- Electrical, plumbing, air-conditioning, carpentry, tiling and renovation work may be arranged through external partners.
+- Main paint brands: premium Nippon Paint and Dulux products
+- Light colours normally receive at least two coats; dark colours may require three to five coats.
+- Oil- or water-based primer is applied where the surface requires it.
+- Typical preparation includes wall inspection, crack and screw-hole repair, masking, furniture moving and covering, floor protection and colour consultation.
+- A&J can paint occupied homes.
+- Most home-painting projects take approximately one to three days, depending on scope.
+- Free on-site quotations are available for all property types.
+- Confirmed indicative starting prices:
+  - Room painting: from S$580
+  - Hall painting: from S$780
+  - Whole-HDB packages: from S$1,480
+  - Oil-based sealer: from S$250 per room
+- Accepted payment methods: cash, PayNow, bank transfer, credit card and debit card
+- Interest-free instalment plans are available; applicable terms should be confirmed during quotation.
+- A workmanship warranty is available; its coverage and rectification terms depend on the project and are stated on the invoice.
 - Official Facebook: [https://www.facebook.com/ajpaintingsingapore/](https://www.facebook.com/ajpaintingsingapore/)
 - Google Business Profile: [https://maps.app.goo.gl/hkcWptve9Jr11ZDr7](https://maps.app.goo.gl/hkcWptve9Jr11ZDr7)
 
@@ -129,45 +148,31 @@ Alvin should also:
 - Is A&J a sole proprietorship, partnership or company?
 - Is Alvin the registered owner or founder?
 - What is Prem’s current role, and should Prem be mentioned on the website?
-- Which languages can customers use when speaking with the team?
 - How many painters are regularly part of the A&J team?
-- Are painting jobs completed entirely by A&J’s team, or is any work subcontracted?
 
 ### Services
 
-- Which services are currently offered directly by A&J?
-- Does A&J serve all of Singapore, or are any locations excluded?
 - Does A&J undertake landed-property and exterior painting?
 - Which non-painting handyman services are still offered?
-- Are electrical, plumbing or air-conditioning services offered? If so, are they performed by properly licensed external partners?
 - Which services should receive their own detailed website pages first?
 
 ### Paint, Workmanship and Process
 
-- Which paint brands and product ranges does A&J normally use?
-- How many coats are normally included?
-- When is primer included?
-- What repairs and wall preparation are included in a standard quotation?
-- Are furniture moving, floor protection and post-work cleaning included?
-- How long do typical HDB and condominium projects take?
-- Is colour consultation included?
-- Can painting be completed while customers remain in the home?
+- Which specific Nippon Paint and Dulux product ranges does A&J normally use for each type of job?
+- Is post-work cleaning included beyond the confirmed tidy wrap-up and final check?
 
 ### Pricing and Payment
 
-- Should the website continue showing indicative prices?
-- What are the correct current starting prices?
 - Is there a minimum job charge?
-- Are on-site quotations free for all property types?
 - How long is a quotation valid?
 - Is a deposit required, and when is final payment due?
-- Which payment methods are accepted: PayNow, bank transfer, cash, cheque or card?
+- What terms and eligibility requirements apply to the interest-free instalment plan?
 - What are the cancellation and rescheduling terms?
 
 ### Warranty and Customer Assurance
 
-- Is there a workmanship warranty or free touch-up period?
-- What does it cover, for how long, and what is excluded?
+- What does the workmanship warranty cover, for how long, and what is excluded?
+- Is there a separate free touch-up period?
 - Does A&J hold public-liability or other business insurance?
 - Are there licences, certifications or manufacturer accreditations that may be stated publicly?
 - Can A&J truthfully promise “no hidden charges,” or should this wording be avoided?
@@ -209,8 +214,7 @@ Alvin should also:
 
 - Exact legal business name and organisation type
 - Confirmed owner/founder information, if Alvin wants it published
-- Precise list of services actually offered
-- Confirmed payment methods
+- Confirmation of landed-property, exterior and non-painting handyman services
 - Warranty, insurance, licences or certifications
 - Official Instagram, TikTok, YouTube and LinkedIn URLs, if they exist
 - Genuine awards or accreditations that A&J is authorised to claim
