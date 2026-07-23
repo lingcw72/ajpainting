@@ -14,4 +14,5 @@ html body .work{background:var(--ink)}
 html body .quote-section{background:var(--orange)}
 html body .quote-section .button{background:var(--ink)}
 html body .quote-section .button:hover{background:#0d253b}
+.language-toggle{display:inline-flex;align-items:center;justify-content:center;min-width:46px;height:34px;padding:0 10px;border:1px solid var(--line);border-radius:999px;font-size:12px;font-weight:800;white-space:nowrap}.language-toggle:hover{border-color:var(--orange);color:var(--orange)}@media(max-width:650px){.language-toggle{margin-left:auto}.nav{gap:10px}}
 html body footer{background:#0d2638}

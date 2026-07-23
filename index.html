@@ -8,6 +8,16 @@
   <!-- Temporary launch protection: remove this tag when the site is ready to be indexed. -->
   <meta name="robots" content="noindex, nofollow, noarchive, nosnippet, noimageindex">
   <link rel="canonical" href="https://www.ajpainting.com.sg/">
+  <link rel="alternate" hreflang="en-SG" href="https://www.ajpainting.com.sg/">
+  <link rel="alternate" hreflang="zh-SG" href="https://www.ajpainting.com.sg/zh/">
+  <link rel="alternate" hreflang="x-default" href="https://www.ajpainting.com.sg/">
+  <script>
+    try {
+      if (!localStorage.getItem('aj-language') && /^zh\b/i.test(navigator.language)) {
+        location.replace('zh/' + location.hash);
+      }
+    } catch (error) {}
+  </script>
   <link rel="icon" href="assets/images/logo.png">
   <link rel="manifest" href="site.webmanifest">
   <link rel="preload" href="assets/images/hero.jpg" as="image" fetchpriority="high">
@@ -34,6 +44,7 @@
       <a class="brand" href="#top" aria-label="A&J Painting home"><img src="assets/images/logo.png" alt="A&J Painting" width="88" height="88"></a>
       <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="nav-links"><span></span><span></span><span></span><span class="sr-only">Open menu</span></button>
       <div class="nav-links" id="nav-links"><a href="#services">Services</a><a href="#why-us">Why A&J</a><a href="#pricing">Pricing</a><a href="#work">Our work</a><a href="#reviews">Reviews</a><a href="#faq">FAQ</a></div>
+      <a class="language-toggle" href="zh/" data-language="zh" lang="zh-SG" hreflang="zh-SG" aria-label="Switch to Chinese">中文</a>
       <a class="button button-small" href="https://wa.me/6593821820?text=Hi%20A%26J%20Painting%2C%20I%27d%20like%20a%20free%20quotation." target="_blank" rel="noopener">Get a free quote</a>
     </nav>
   </header>

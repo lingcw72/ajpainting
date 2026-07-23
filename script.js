@@ -12,6 +12,15 @@ navLinks.querySelectorAll('a').forEach(link => link.addEventListener('click', ()
   menuButton.setAttribute('aria-expanded', 'false');
 }));
 
+document.querySelectorAll('[data-language]').forEach(link => {
+  link.addEventListener('click', () => {
+    try {
+      localStorage.setItem('aj-language', link.dataset.language);
+    } catch (error) {}
+    if (location.hash && !link.hash) link.href += location.hash;
+  });
+});
+
 const observer = new IntersectionObserver(entries => {
   entries.forEach(entry => {
     if (entry.isIntersecting) {
@@ -29,7 +38,10 @@ document.getElementById('quote-form').addEventListener('submit', event => {
   const scope = document.getElementById('scope').value;
   const name = document.getElementById('name').value.trim();
   const details = document.getElementById('details').value.trim();
-  const message = `Hi A&J Painting, I'm ${name}. I'd like a free quotation.\n\nProperty: ${property}\nScope: ${scope}\nDetails: ${details || 'I will share more details in chat.'}`;
+  const isChinese = event.currentTarget.dataset.formLanguage === 'zh';
+  const message = isChinese
+    ? `您好 A&J 油漆，我是${name}。我想索取免费报价。\n\n物业类型：${property}\n工程范围：${scope}\n详情：${details || '我会在对话中提供更多资料。'}`
+    : `Hi A&J Painting, I'm ${name}. I'd like a free quotation.\n\nProperty: ${property}\nScope: ${scope}\nDetails: ${details || 'I will share more details in chat.'}`;
   window.open(`https://wa.me/6593821820?text=${encodeURIComponent(message)}`, '_blank', 'noopener');
 });
 
